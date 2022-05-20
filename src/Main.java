@@ -1,4 +1,3 @@
-package tarea2_repo_pm;
 
 public class Main {
 
