@@ -1,4 +1,4 @@
-package tarea2_repo_pm_1;
+package tarea2_repo_pm;
 
 public class Main {
 
